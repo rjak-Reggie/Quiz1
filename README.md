@@ -14,18 +14,18 @@ Requirements
 
 When prompted:
 
--Enter a subject name.
+- Enter a subject name.
 
--Enter the number of questions you want to generate.
+- Enter the number of questions you want to generate.
 
 The program will:
 
--Use Gemini to create the requested number of single-word-answer questions about your chosen topic.
+- Use Gemini to create the requested number of single-word-answer questions about your chosen topic.
 
--Save the questions and answers to a file named myquestion.txt.
+- Save the questions and answers to a file named myquestion.txt.
 
--Load the questions and start the quiz session.
+- Load the questions and start the quiz session.
 
-Display whether each answer is correct or incorrect.
+- Display whether each answer is correct or incorrect.
 
-Show your final score and percentage when all questions are complete.
+- Show your final score and percentage when all questions are complete.
