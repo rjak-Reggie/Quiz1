@@ -10,7 +10,7 @@ Requirements
 
 - Google Generative AI library (google-generativeai)
 
--A valid Google Gemini API key (available from Google AI Studio, https://aistudio.google.com/apikey)
+- A valid Google Gemini API key (available from Google AI Studio, https://aistudio.google.com/apikey)
 
 When prompted:
 
